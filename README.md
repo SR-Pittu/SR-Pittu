@@ -2,7 +2,7 @@
 
 My full name is ***SobhaReddy Pittu***. 
 
-I am pursuing master at ***NORTHWEST MISSOURI STATE UNIVERSITY***.
+I am pursuing masters at ***NORTHWEST MISSOURI STATE UNIVERSITY***.
 
 I am interested in coding.
 
