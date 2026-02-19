@@ -90,7 +90,7 @@ Object-Oriented Programming, RESTful API Design, CI/CD, Version Control, Agile D
 
 ## 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN   
+- [LinkedIn](https://www.linkedin.com/in/sobhareddy-pittu-712b39207/)
 
 ---
 
